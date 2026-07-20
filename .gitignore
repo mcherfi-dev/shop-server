@@ -1,0 +1,12 @@
+target/
+.idea/
+
+# IDE
+*.iml
+.vscode/
+# Build
+!.mvn/wrapper/maven-wrapper.jar
+# Secrets
+.env
+*.key
+*.pem
